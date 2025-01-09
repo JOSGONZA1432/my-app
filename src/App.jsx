@@ -26,7 +26,8 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Clicand React logos to
+        pueba teo
+        
       </p>
     </>
   )
