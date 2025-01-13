@@ -6,9 +6,8 @@ function Login() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Aquí iría la lógica para enviar el usuario y la contraseña al servidor
-    console.log('Username:', username);
-    console.log('Password:', password);
+    
+    (username === 'Prueba')?console.log('Ingreso correctamente'):console.log('Ingreso incorrectamente')
   };
 return (
     <div>
